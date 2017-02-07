@@ -1,1 +1,1 @@
-# App-Environ-Mojo
+# App::Environ::Mojo::Pg
