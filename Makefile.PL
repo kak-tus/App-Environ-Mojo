@@ -20,7 +20,7 @@ WriteMakefile(
     dynamic_config => 0,
     'meta-spec'    => { version => 2 },
     no_index       => { directory => [ 'example', 't' ] },
-    prereqs        => { runtime => { requires => { perl => '5.10' } } },
+    prereqs        => { runtime => { requires => { perl => '5.010001' } } },
     resources      => {
       repository => {
         type => 'git',
